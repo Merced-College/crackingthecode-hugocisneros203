@@ -39,8 +39,10 @@ Observe how the time changes as the passcode length increases.
 🔎 Discussion Questions:
 
 3. Why does it take longer to crack a longer password?
+ your while loop has to go through more iterations which takes longer.
 
-4. What strategies do people use to protect their PIN numbers?
+5. What strategies do people use to protect their PIN numbers?
+   use a randomly generated password that is long.
 
 🛡️ Challenge 3: Introduce Letters into the Password
 
@@ -55,11 +57,12 @@ Run your program and observe the new time to crack the password.
 🔎 Discussion Questions:
 
 5. How did adding letters change your algorithm?
-
+it made it more complicated and a lot harder and longer to crack.
 6. Did this increase the difficulty of cracking the password? Why?
-
+yes because now the code has more things to account rather then just numbers.
 7. How do strong passwords prevent brute-force attacks?
-
+it is making it harder to brute force the password by introducing more complexity
+for hugo cisneros and adan bahena
 🏆 Final Challenge: Custom Password Complexity
 
 Goal: Experiment with different password complexities and analyze security impact.
